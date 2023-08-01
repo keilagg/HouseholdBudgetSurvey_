@@ -7,7 +7,7 @@ Insights on mobility from Household Budget Surveys (HBS) around the world.
 2. [Objectives](#objectives)
 3. [File Descriptions](#files)
 4. [Results](#results)
-5. [Licensing and Acknowledgements] (#results)
+5. [Licensing and Acknowledgements](#results)
 
 ## Installation <a name="installation"></a>
 
