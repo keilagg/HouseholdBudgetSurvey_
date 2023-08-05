@@ -3,9 +3,6 @@ pandas
 matplotlib
 geopandas
 seaborn
-math
 requests
-json
-time
-sys
 ipywidgets
+zipfile

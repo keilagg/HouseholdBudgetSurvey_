@@ -10,7 +10,11 @@ Insights on mobility from Household Budget Surveys (HBS) around the world.
 5. [Licensing and Acknowledgements](#acknowledgments)
 
 ## Installation <a name="installation"></a>
+All required dependences are added to the requirements.txt file. These can be installed as follows:
 
+```
+pip install -r requirements.txt
+```
 
 
 ## Objectives <a name="objectives"></a>
