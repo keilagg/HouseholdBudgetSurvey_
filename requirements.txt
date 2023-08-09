@@ -1,8 +1,7 @@
 numpy
 pandas
 matplotlib
-geopandas
+scipy
 seaborn
 requests
-ipywidgets
 zipfile
