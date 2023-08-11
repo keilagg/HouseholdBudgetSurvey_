@@ -16,13 +16,19 @@ All required dependences are added to the requirements.txt file. These can be in
 pip install -r requirements.txt
 ```
 
-
 ## Objectives <a name="objectives"></a>
 This exploratory notebook uses Household budget surveys to answer questions related to mobility.
 Questions are:
 
 
 ## File Descriptions <a name="files"></a>
+
+
+
+
+## Known issues
+If some plotly plots are not displayed correctly follow this [link](https://stackoverflow.com/questions/66557543/valueerror-mime-type-rendering-requires-nbformat-4-2-0-but-it-is-not-installed)
+
 
 ## Results <a name="results"></a>
 

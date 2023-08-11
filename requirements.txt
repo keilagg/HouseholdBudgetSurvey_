@@ -1,7 +1,11 @@
 numpy
 pandas
 matplotlib
+scikit-learn
 scipy
+random
 seaborn
 requests
 zipfile
+nbformat
+plotly
