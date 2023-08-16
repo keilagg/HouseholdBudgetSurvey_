@@ -11,3 +11,4 @@ matplotlib
 nbformat
 plotly
 IPython
+openpyxl
