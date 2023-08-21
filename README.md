@@ -1,5 +1,5 @@
 # HouseholdBudgetSurvey_
-Insights on mobility from Household Budget Surveys (HBS) around the world.
+Insights on mobility from Spain's Household Budget Surveys (HBS).
 
 ### Table of Contents
 
@@ -28,7 +28,7 @@ Questions are:
 
 
 ## File Descriptions <a name="files"></a>
--Data- folder with all the files required for the analysis.
+- Data- folder with all the files required for the analysis.
 - helper_plot.py- contains functions that were used to plot.
 - Project_1_kgg- Notebook with the analysis.
 
@@ -36,13 +36,12 @@ Questions are:
 
 
 ## Known issues
-If some plotly plots are not displayed correctly follow this [link](https://stackoverflow.com/questions/66557543/valueerror-mime-type-rendering-requires-nbformat-4-2-0-but-it-is-not-installed)
+If some plotly plots are not displayed correctly follow the instructions from this [link.](https://stackoverflow.com/questions/66557543/valueerror-mime-type-rendering-requires-nbformat-4-2-0-but-it-is-not-installed)
 
 
 ## Results <a name="results"></a>
 
-The main findings of the code can be found in this [blog post](file:///Users/keilagonzalez/Documents/Learning/Udacity/keilagg.github.io/pages/transport_spain.html)
-.
+The main findings of the code can be found in this [blog post.](https://keilagg.github.io/pages/transport_spain.html)
 
 ## Licensing and Acknowledgements <a name="acknowledgments"></a>
 The data used in this analysis was collected and published by the Spanish National Statistics Institute.
