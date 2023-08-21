@@ -40,7 +40,7 @@ If some plotly plots are not displayed correctly follow the instructions from th
 
 
 ## Results <a name="results"></a>
-
+The exploration evidenced that mobility services are not being used in a way that could help us save transportation expenditures.
 The main findings of the code can be found in this [blog post.](https://keilagg.github.io/pages/transport_spain.html)
 
 ## Licensing and Acknowledgements <a name="acknowledgments"></a>
