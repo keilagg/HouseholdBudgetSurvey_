@@ -26,11 +26,12 @@ def plot2print(x:list, y:list, b_colors:list, ylabel:str, title:str):
     # titles
     ax.set_ylabel(ylabel,  **hfont)
     ax.set_title(title, **hfont, y=1.08)
+    #ax.ticklabel_format(useOffset=False)
 
     # Move scientific notation 
-    t = ax.yaxis.get_offset_text()
-    t.set_fontsize(10)
-    t.set_x(0)
+    #t = ax.yaxis.get_offset_text()
+    #t.set_fontsize(10)
+    #t.set_x(0)
 
     # Improve grid settings
     ax.spines['top'].set_visible(False)
